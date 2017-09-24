@@ -1,1 +1,1 @@
-web: python manage.py create_db
+web: python manage.py recreated_db
